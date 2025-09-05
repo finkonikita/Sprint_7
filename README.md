@@ -16,4 +16,4 @@ pip3 install -r requirements.txt
 pytest tests --alluredir=allure_results
 
 Посмотреть отчет в веб версии пройденного прогона
-allure serve allure_results
+allure serve allure_results# Sprint_7
