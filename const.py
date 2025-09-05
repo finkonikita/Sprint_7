@@ -4,6 +4,7 @@ class Const:
     LOGIN_COURIER = f'{MAIN_URL}/api/v1/courier/login'
     CREATE_ORDER = f'{MAIN_URL}/api/v1/orders'
     ORDER_LIST = f'{MAIN_URL}/api/v1/orders'
+    DELETE_COURIER = f'{MAIN_URL}/api/v1/courier/'
     GET_ORDER_TRACK = f'{MAIN_URL}/api/v1/orders/track'
     TAKE_ORDER = f'{MAIN_URL}/api/v1/orders/accept/'
 
