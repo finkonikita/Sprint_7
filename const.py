@@ -13,6 +13,7 @@ class MessageText:
     CREATE_COURIER = '{"ok":true}'
     CREATE_COURIER_TWICE = 'Этот логин уже используется'
     CREATE_COURIER_WITHOUT_LOGIN = 'Недостаточно данных для создания учетной записи'
+    CREATE_COURIER_WITHOUT_PASSWORD = 'Недостаточно данных для создания учетной записи'
     LOGING_COURIER = 'id'
     LOGING_COURIER_WITHOUT_DATA = 'Недостаточно данных для входа'
     LOGING_COURIER_FAKE_DATA = 'Учетная запись не найдена'
